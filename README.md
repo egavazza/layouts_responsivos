@@ -6,5 +6,5 @@ A partir de una propuesta de diseño compartida desde Figma se trabajó sobre el
 
 #
 <p align="center" >
-     <img width="600" heigth="600" src="https://www.figma.com/file/Y4xGUAoXitO6FQjKAlJjI9/Apeperia-Mobile-First-(inicial)-(Copy)?t=gtn3YhRtMqwi792m-0">
+     <img width="600" heigth="600" src="/modelo_figma_layouts_responsive.png">
 </p>
